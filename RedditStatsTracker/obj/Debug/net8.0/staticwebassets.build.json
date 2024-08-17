@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oHbXniQVrnlUVQRsdxQgK3wQKwU4THvkmCkm6NCngvA=",
+  "Source": "RedditStatsTracker",
+  "BasePath": "_content/RedditStatsTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
